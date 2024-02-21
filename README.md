@@ -39,8 +39,8 @@ cd - меняет деректорию
 #### есть некоторое расширение для rm это -r, чтобы удалять папки с файлами
 
 
-'''mermaid
+```mermaid
 graph LR; 
 untraked -- "git add" --> staged;
 staged -- "???"   --> tracked/comited;
-'''
+```
